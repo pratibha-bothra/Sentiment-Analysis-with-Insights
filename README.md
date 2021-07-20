@@ -42,8 +42,6 @@ Dash is an open source library, released under the permissive MIT license. Plotl
 Web scraping is a term used to describe the use of a program or algorithm to extract and process large amounts of data from the web.
 
 
-<img src = photos/Screenshot 2021-06-28 233601.png width='100%'>
-<img src = photos/Screenshot 2021-06-28 233655.png width='100%'>
 <img src = photos/Screenshot 2021-06-28 233729.png width='100%'>
 #
 ## References
