@@ -41,6 +41,10 @@ Dash is an open source library, released under the permissive MIT license. Plotl
 ## What is Web Scrapping?
 Web scraping is a term used to describe the use of a program or algorithm to extract and process large amounts of data from the web.
 
+
+<img src = photo/Screenshot 2021-06-28 233601.png width='100%'>
+<img src = photo/Screenshot 2021-06-28 233655.png width='100%'>
+<img src = photo/Screenshot 2021-06-28 233729.png width='100%'>
 #
 ## References
 **[Forsk Coding School](http://forskcodingschool.com)** Internship conducted by **[Mr. Yogendra Singh](https://in.linkedin.com/in/yogendrasinsinwar)** and **[Dr. Sylvester Fernandes](https://in.linkedin.com/in/drsylvester)**
