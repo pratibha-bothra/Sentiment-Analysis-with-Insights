@@ -1,7 +1,7 @@
 # Sentiment-Analysis-with-Insights
 This project show the sentiment analysis of text data using NLP and Dash. I used Amazon reviews dataset to train the model and further scrap the reviews from Etsy.com in order to test my model.
 
-Model- http://ec2-3-109-153-96.ap-south-1.compute.amazonaws.com:8050\
+Model- http://ec2-3-109-153-96.ap-south-1.compute.amazonaws.com:8050/
 
 #
 ## How this project was made?
