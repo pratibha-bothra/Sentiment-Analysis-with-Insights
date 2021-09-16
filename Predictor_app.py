@@ -31,18 +31,18 @@ def open_browser():
 def load_model():
     print("Loading model...")
     global pickle_model
-    file = open("D:\\100 days internship project\\final_project\\pickle_model_1.pkl", 'rb')
+    file = open("pickle_model_1.pkl", 'rb')
     pickle_model = pickle.load(file)
 
     global vocab
-    file = open("D:\\100 days internship project\\final_project\\feature.pkl", 'rb')
+    file = open("feature.pkl", 'rb')
     vocab = pickle.load(file)
 
 
 def load_csv():
     print("Loading csv...")
     global scrappedetsyReviews
-    scrappedetsyReviews = pd.read_csv(r"D:\\100 days internship project\\final_project\\reviews_etsy.csv", index_col=False, skiprows=[0], names=["SNo", "Review"])
+    scrappedetsyReviews = pd.read_csv(r"reviews_etsy.csv", index_col=False, skiprows=[0], names=["SNo", "Review"])
     scrappedetsyReviews['sentiment'] = [pred_review(x)[0] for x in scrappedetsyReviews['Review']]
 
 
