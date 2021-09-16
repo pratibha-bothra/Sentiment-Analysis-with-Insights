@@ -1,6 +1,6 @@
 import pandas as pd
 
-df =  pd.read_csv(r'D:\100 days internship project\final_project\balanced_reviews.csv')
+df =  pd.read_csv(r'balanced_reviews.csv')
 
 
 
