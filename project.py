@@ -38,4 +38,4 @@ for f in filenames:
 
 finaldf = pd.concat(dataframes, axis = 0, ignore_index = True)
 
-finaldf.to_csv(r"D:\100 days internship project\final_project\balanced_reviews.csv", index = False)
+finaldf.to_csv(r"balanced_reviews.csv", index = False)
