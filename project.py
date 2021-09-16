@@ -1,7 +1,7 @@
 import pandas as pd
 import numpy as np
 
-df_reader = pd.read_json(r"D:\100 days internship project\final_project\Clothing_Shoes_and_Jewelry.json", lines =  True ,chunksize = 1000000 )
+df_reader = pd.read_json(r"Clothing_Shoes_and_Jewelry.json", lines =  True ,chunksize = 1000000 )
 
 counter = 1
 for chunk in df_reader:
